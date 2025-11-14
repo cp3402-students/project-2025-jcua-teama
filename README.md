@@ -7,8 +7,8 @@
 4. Marcus Thum
 
 ## Other Links
-[Deployment.md](https://github.com/cp3402-students/project-2025-jcua-teama/blob/main/deployment.md)
+* [Deployment.md](https://github.com/cp3402-students/project-2025-jcua-teama/blob/main/deployment.md)
 
-[Theme.md](https://github.com/cp3402-students/project-2025-jcua-teama/blob/main/theme.md)
+* [Theme.md](https://github.com/cp3402-students/project-2025-jcua-teama/blob/main/theme.md)
 
-[Site.md](https://github.com/cp3402-students/project-2025-jcua-teama/blob/main/site.md)
+* [Site.md](https://github.com/cp3402-students/project-2025-jcua-teama/blob/main/site.md)
