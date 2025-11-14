@@ -1,7 +1,7 @@
 
 ## 🧭 Site Overview
 
-This website is built using a **custom WordPress theme** developed specifically for Baizonn Learning Center. It is designed to be maintainable, scalable, and easy for content editors to update. The content is organized into **Pages**, **Posts**
+This website is built using a **custom WordPress theme** developed specifically for Baizonn Learning Center.
 ---
 
 ## 📄 Pages vs. Posts
