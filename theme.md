@@ -5,7 +5,7 @@ Theme Zip File: [Link](https://myjcuedu-my.sharepoint.com/:u:/g/personal/weiaunm
 
 ## How to Use?
 Upload zip file, under themes. 
-    * Header should list Pages, with a Blue & Green Gradient
+* *Header should list Pages, with a Blue & Green Gradient*
 
 ## Listed Links & Pages
 
