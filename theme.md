@@ -1,7 +1,7 @@
 # Theme
 
 ## Header & Footer Theme
-Theme Zip File: (link) [https://myjcuedu-my.sharepoint.com/:u:/g/personal/weiaunmarcus_thum_my_jcu_edu_au/IQBK4-86CwjZTolju2GvMER2AQRCUUPCiugFlPZk7kQOZV4?e=0LIppq]
+Theme Zip File: [Link] (https://myjcuedu-my.sharepoint.com/:u:/g/personal/weiaunmarcus_thum_my_jcu_edu_au/IQBK4-86CwjZTolju2GvMER2AQRCUUPCiugFlPZk7kQOZV4?e=0LIppq)
 
 ## How to Use?
 Upload zip file, under themes. 
