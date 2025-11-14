@@ -28,7 +28,7 @@ Github Link: https://github.com/cp3402-students/project-2025-jcua-teama.git
 
 Presentation & Individual Report: https://myjcuedu-my.sharepoint.com/:f:/g/personal/weiaunmarcus_thum_my_jcu_edu_au/EryPhwIgXz1Fm_edyuFpF08BYSReuVZSpftyAO2aCoWmdw?e=78yR9e (Need to Create 10 minute Video)
 
-Slack Link: https://join.slack.com/t/cp3402assignm-uop4073/shared_invite/zt-3h47ogamb-VSZtwERB_q5ZdH2gXnaCBw 
+Slack Link: https://join.slack.com/t/cp3402assignm-uop4073/shared_invite/zt-3h47ogamb-VSZtwERB_q5ZdH2gXnaCBw
 
 
 
