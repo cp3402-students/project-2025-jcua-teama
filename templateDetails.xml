@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="theme" version="1.0">
+  <name>Green Blue Gradient Theme</name>
+  <author>Your Name</author>
+  <creationDate>2025-11-12</creationDate>
+  <authorEmail>you@example.com</authorEmail>
+  <authorUrl>https://example.com</authorUrl>
+  <copyright>(C) 2025 Your Name</copyright>
+  <license>GNU General Public License v2 or later</license>
+  <description>A modern WordPress theme featuring a green-blue gradient design, built with Bootstrap 5.</description>
+  <files>
+    <filename>index.php</filename>
+    <filename>header.php</filename>
+    <filename>footer.php</filename>
+    <filename>functions.php</filename>
+    <filename>style.css</filename>
+  </files>
+</extension>
