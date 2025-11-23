@@ -29,7 +29,7 @@ Use **Posts** for:
 Posts can be found under **Posts > Add New**.
 
 Make sure to:
-- Assign an appropriate **Category** (e.g., "Promotion", "Teachers", "Uncategorized").
+- Assign an appropriate **Category** (e.g., "Promotion", "Teachers", "Accolades").
 - Add **Tags** if helpful for searchability.
 - Set a **Featured Image** (used in previews and social media cards).
 
