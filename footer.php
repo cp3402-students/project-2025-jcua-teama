@@ -1,5 +1,5 @@
 <!-- 🌈 Footer -->
-<img src="http://54.252.27.112/wp-content/uploads/2025/11/Signboard-2.jpg" class="center">
+<img src="http://amazon.baizonn-learning-center.shop/wp-content/uploads/2025/11/Signboard-2.jpg" class="center">
 <footer class="footer-gradient text-white pt-5 pb-3 mt-5">
   <div class="container">
     <div class="row">
